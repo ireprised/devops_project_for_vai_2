@@ -36,13 +36,13 @@ also deploy the docker container
 
 ## 🔗 LINKS
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)[devops projects for vai 2](https://github.com/ireprised/devops_project_for_vai_2)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) [devops projects for vai 2](https://github.com/ireprised/devops_project_for_vai_2)
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)Here i used local machine server for final deployment
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) Here i used local machine server for final deployment
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) Dockerfile is inside the my-app-backend folder
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)Apllication build tool for REACT & NODEJS which you will find dockerfile too
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) Apllication build tool for REACT & NODEJS which you will find dockerfile too
 
 ## Feedback
 
